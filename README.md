@@ -32,6 +32,9 @@ Node.js · Express · Spring Boot · ASP.NET · REST APIs · Swagger/OpenAPI
 ### Databases
 MySQL · PostgreSQL · MongoDB · SQL
 
+### Testing & QA
+Junit . NumPy . Pytest . Robot Framework . Selenium
+
 ### Cloud & DevOps
 AWS · Docker · Kubernetes · Jenkins · GitLab CI/CD · Azure Pipelines · GitHub Actions
 
