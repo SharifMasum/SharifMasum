@@ -79,6 +79,7 @@ I am currently focused on roles involving:
 
 - Full-Stack Software Engineering
 - Research Software Engineering
+- Software Testing
 - Educational Technology Development
 - Cloud-aware Application Development
 - R&D Software Engineering
@@ -89,14 +90,6 @@ I am currently focused on roles involving:
 ## 📌 Current Job Application Project
 
 I am actively improving my professional profile, portfolio, GitHub presence, and job application materials for software engineering roles.
-
-This includes:
-
-- refining my LinkedIn profile
-- improving GitHub project presentation
-- polishing README files
-- highlighting flagship projects
-- aligning my CV, GitHub, and LinkedIn story
 
 ---
 
